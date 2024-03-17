@@ -2,8 +2,8 @@
 
 ### Getting Started
 ```
-1. git clone https://github.com/sadabnepal/KarateAPITestFramework.git
-2. Navigate to KarateAPITestFramework
+git clone https://github.com/sadabnepal/karate-api-test.git
+cd karate-api-test
 ```
 
 ### Run Test
